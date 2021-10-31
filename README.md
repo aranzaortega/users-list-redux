@@ -1,3 +1,3 @@
-# react-6149bj
+# Users List Redux Practice
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-6149bj)
+Using React, Redux, Axios, Hooks, API, Bootstrap.
